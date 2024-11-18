@@ -1,2 +1,2 @@
 # install
-Script to install Mars on your windows computer.
+Script to install Mars on your computer.
